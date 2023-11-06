@@ -1,4 +1,4 @@
-//Pseudocode: Secure thhe Vault steps.
+//Pseudocode: Secure the Vault steps.
 //Step 1: Add variable with the message that is provided.
 //Step 2: Add variable 1: Add 5+5 =10
 //Step 3: Add variable 2: Multipy 5*8 =40
