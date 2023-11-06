@@ -1,4 +1,4 @@
-//Pseudocode: Secure cthe Vault steps.
+//Pseudocode: Secure thhe Vault steps.
 // Step 1: add 5+5 =10
 // Step 2: Multipy 5*8 =40
 // Step 3: Divide _/_ =39
@@ -7,7 +7,8 @@
 
 
 const strg= "You have received this message because you have been chosen to open an important vault. Here is the secret combination:";
-const ten = 5+5;
-const forty = 5*8;
-const thirtyNine = 60-21;
-alert(strg+ "  "+ten+ "  " +forty+ " " +thirtyNine);
+const String1 = 5+5;
+const String2 = 5*8;
+const String3 = 60-21;
+alert(strg+ "  "+String1+ "  " +String2+ " " +String3);
+console.log(strg)
